@@ -1,4 +1,4 @@
-# Simple Text Editor with Python and Tkinter
+# Text Editor with Python and Tkinter
 
 This project is a simple text editor built using Python and the Tkinter library. It provides basic text editing functionalities including creating a new file, opening an existing file, saving files, and exiting the application.
 
